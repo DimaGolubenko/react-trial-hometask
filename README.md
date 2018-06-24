@@ -33,3 +33,6 @@
 #### Чтобы сбилдить приложение без github pages:
 
 -   `yarn build:prod` или `npm run build:prod`
+
+### Задеплоеное приложение можно посмотреть на now.sh
+[a https://build-iogpyblrts.now.sh/](https://build-iogpyblrts.now.sh/)
